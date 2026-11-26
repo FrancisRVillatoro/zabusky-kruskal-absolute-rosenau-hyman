@@ -1,0 +1,18 @@
+test_diagnostic (test_phase9b.Tests.test_diagnostic) ... ok
+test_discrete_symbols (test_phase9b.Tests.test_discrete_symbols) ... ok
+test_galerkin_balance (test_phase9b.Tests.test_galerkin_balance) ... ok
+test_galerkin_null (test_phase9b.Tests.test_galerkin_null) ... ok
+test_null (test_phase9b.Tests.test_null) ... ok
+test_power_rate (test_phase9b.Tests.test_power_rate) ... ok
+test_radau_real_resume (test_phase9b.Tests.test_radau_real_resume) ... FASE9B_SEG_START smoke 1 128 6.999795756619737 0.009515123188972604 0.0 0.00125
+FASE9B_SEG_OK smoke 1 8
+FASE9B_SEG_START smoke 2 128 6.999795756619737 0.009515123188972604 0.00125 0.0025
+FASE9B_SEG_OK smoke 2 8
+ok
+test_seams (test_phase9b.Tests.test_seams) ... ok
+test_summary (test_phase9b.Tests.test_summary) ... ok
+
+----------------------------------------------------------------------
+Ran 9 tests in 0.080s
+
+OK

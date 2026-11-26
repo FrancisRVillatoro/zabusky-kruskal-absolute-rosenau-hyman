@@ -1,0 +1,20 @@
+test_Radau_mass_preserves_mean_no_nu (test_solver.Tests.test_Radau_mass_preserves_mean_no_nu) ... ok
+test_cli_hdf5_metadata (test_solver.Tests.test_cli_hdf5_metadata) ... ok
+test_fourier_mode_linear_viscosity (test_solver.Tests.test_fourier_mode_linear_viscosity) ... ok
+test_jacobian_directional_fd (test_solver.Tests.test_jacobian_directional_fd) ... ok
+test_legacy_operator_separate_from_fourth_order (test_solver.Tests.test_legacy_operator_separate_from_fourth_order) ... ok
+test_periodic_stencil_no_duplicate (test_solver.Tests.test_periodic_stencil_no_duplicate) ... ok
+test_projected_halfwave (test_solver.Tests.test_projected_halfwave) ... ok
+test_radau_tableau (test_solver.Tests.test_radau_tableau) ... ok
+test_reference_scipy_radau (test_solver.Tests.test_reference_scipy_radau) ... ok
+test_regularization_positive_symbol_and_fourth_order (test_solver.Tests.test_regularization_positive_symbol_and_fourth_order) ... ok
+test_rejection_never_silent_for_fixed_mode (test_solver.Tests.test_rejection_never_silent_for_fixed_mode) ... ok
+test_scalar_mass_order_five (test_solver.Tests.test_scalar_mass_order_five) ... ok
+test_stage_jacobian_directional_fd (test_solver.Tests.test_stage_jacobian_directional_fd) ... ok
+test_step_doubling (test_solver.Tests.test_step_doubling) ... ok
+test_symmetry_equivariance_and_invariant (test_solver.Tests.test_symmetry_equivariance_and_invariant) ... ok
+
+----------------------------------------------------------------------
+Ran 15 tests in 1.068s
+
+OK

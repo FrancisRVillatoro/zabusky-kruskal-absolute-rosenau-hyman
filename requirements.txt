@@ -1,0 +1,8 @@
+# The analysis package was run with Python 3.13.18 and numpy 2.5.3, scipy 1.18.1,
+# pandas 3.0.5 and matplotlib 3.11.2. h5py is used only by the audits stored in
+# the archives.
+numpy
+scipy
+pandas
+matplotlib
+h5py

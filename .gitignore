@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+analysis/results/
+figures_reproduced/
+audit_reproduced/
+return_envelopes.csv
+rpo_attempts.json

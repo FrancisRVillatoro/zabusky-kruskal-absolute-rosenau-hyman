@@ -1,0 +1,22 @@
+{
+  "sha256": "8128a76251e0463d05f4493188e733bdfb502a142030155e4e8e837fcd5b4411",
+  "cases": 42,
+  "segments": 122,
+  "trace_rows": 53039,
+  "return_rows": 70,
+  "fixed_time_rows": 231,
+  "nonlinear_rows": 4164,
+  "tangent_comparison_rows": 14589,
+  "localization_rows": 30392,
+  "replay_rows": 429,
+  "max_replay_L2": 0.0343385728808482,
+  "max_paired_symmetry_difference": 0.0404304082792739,
+  "max_trace_log_gain_discrepancy": 0.0,
+  "max_recomputed_gamma_tau_error": 1.1368683772161603e-13,
+  "max_recomputed_nonlinear_loggain_error": 3.9257486150745535e-13,
+  "max_scaled_residual": 0.9999936388297908,
+  "max_stage_odd_defect": 7.141288428658132e-13,
+  "max_tangent_backward_error": 5.037582494245824e-16,
+  "max_relative_mean_leak": 5.734607030851145e-14,
+  "max_absolute_mean": 6.331725267551115e-15
+}

@@ -1,0 +1,14 @@
+{
+  "expected": 14,
+  "complete": 13,
+  "archive_complete": 12,
+  "audit_completed": 55,
+  "audit_failed": 1,
+  "new_chronological_events": 55,
+  "archive_chronological_events": 39,
+  "max_D_identity": 3.3306690738754696e-16,
+  "mode7_mean_ratio_N900_over_N1800": 255.17953918179614,
+  "mode7_observed_order": 7.995368845271083,
+  "central_mode5_max_abs_balance_defect": 1.005643347207208e-07,
+  "all_new_mode5_max_abs_balance_defect": 1.3820369578997072e-06
+}

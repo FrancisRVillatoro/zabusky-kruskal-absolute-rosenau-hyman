@@ -1,0 +1,37 @@
+test_avf_centered_fd_and_I (test_tangent.Tests.test_avf_centered_fd_and_I) ... ok
+test_campaign (test_tangent.Tests.test_campaign) ... ok
+test_commutes_and_trace (test_tangent.Tests.test_commutes_and_trace) ... ok
+test_norm_tracking_and_gain (test_tangent.Tests.test_norm_tracking_and_gain) ... ok
+test_radau_centered_fd (test_tangent.Tests.test_radau_centered_fd) ... ok
+test_radau_full_stage_solve (test_tangent.Tests.test_radau_full_stage_solve) ... ok
+test_restriction (test_tangent.Tests.test_restriction) ... ok
+test_runner_report_real (test_tangent.Tests.test_runner_report_real) ... FASE9C_SEG_START tan 1 0.0 0.02
+FASE9C_SEG_OK tan 1 0.02
+FASE9C_CASE_OK tan
+FASE9C_SEG_START fine 1 0.0 0.02
+FASE9C_SEG_OK fine 1 0.02
+FASE9C_CASE_OK fine
+FASE9C_SEG_START noise 1 0.0 0.02
+FASE9C_SEG_OK noise 1 0.02
+FASE9C_CASE_OK noise
+FASE9C_SEG_START plus 1 0.0 0.02
+FASE9C_SEG_OK plus 1 0.02
+FASE9C_CASE_OK plus
+FASE9C_SEG_START minus 1 0.0 0.02
+FASE9C_SEG_OK minus 1 0.02
+FASE9C_CASE_OK minus
+FASE9C_CASE_OK tan
+/mnt/data/_9d/testroot/fase9c/tests/test_tangent.py:52: ResourceWarning: unclosed file <_io.TextIOWrapper name='/tmp/tmpkv20udb2/report/nonlinear_comparisons.csv' mode='r' encoding='utf-8'>
+  fd=list(csv.DictReader(open(path/'report/nonlinear_comparisons.csv')));self.assertGreater(len(fd),0);self.assertLess(max(float(x['relative_vector_difference']) for x in fd),2e-4)
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+/mnt/data/_9d/testroot/fase9c/tests/test_tangent.py:53: ResourceWarning: unclosed file <_io.TextIOWrapper name='/tmp/tmpkv20udb2/report/paired_symmetry.csv' mode='r' encoding='utf-8'>
+  sym=list(csv.DictReader(open(path/'report/paired_symmetry.csv')));self.assertLess(max(float(x['normalized_symmetry_difference']) for x in sym),1e-10)
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+ok
+test_seed_basis (test_tangent.Tests.test_seed_basis) ... ok
+test_unprojected_pair (test_tangent.Tests.test_unprojected_pair) ... ok
+
+----------------------------------------------------------------------
+Ran 10 tests in 0.815s
+
+OK

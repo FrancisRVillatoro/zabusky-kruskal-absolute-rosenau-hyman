@@ -1,0 +1,14 @@
+test_all_catalog_paths_synthetic (test_phase9a.Phase9ATests.test_all_catalog_paths_synthetic) ... ok
+test_lattice_core_p225 (test_phase9a.Phase9ATests.test_lattice_core_p225) ... ok
+test_linear_integral (test_phase9a.Phase9ATests.test_linear_integral) ... ok
+test_mass_bounds (test_phase9a.Phase9ATests.test_mass_bounds) ... ok
+test_modal_measure (test_phase9a.Phase9ATests.test_modal_measure) ... ok
+test_p3_continuum_norm (test_phase9a.Phase9ATests.test_p3_continuum_norm) ... ok
+test_periodic_band (test_phase9a.Phase9ATests.test_periodic_band) ... ok
+test_production_operator (test_phase9a.Phase9ATests.test_production_operator) ... ok
+test_root_touch_vs_cross (test_phase9a.Phase9ATests.test_root_touch_vs_cross) ... ok
+
+----------------------------------------------------------------------
+Ran 9 tests in 2.640s
+
+OK

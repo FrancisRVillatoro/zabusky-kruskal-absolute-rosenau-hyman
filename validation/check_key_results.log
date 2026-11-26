@@ -1,0 +1,16 @@
+{
+  "archives_checked": 10,
+  "profiles": 42,
+  "length_complete": 13,
+  "tangent_study_complete": 41,
+  "null_power_ratio": 255.17953918179614,
+  "mode5_max_balance_defect": 1.005643347207208e-07,
+  "D4_range": [
+    0.238336677209954,
+    0.2442471390467269
+  ],
+  "log10_gain_range": [
+    15.69537706474132,
+    138.711686756844
+  ]
+}
